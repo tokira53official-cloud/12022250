@@ -1,0 +1,105 @@
+{
+    "1431099255874916376": [
+        {
+            "container_name": "vps-1431099255874916376-1",
+            "ram": "32GB",
+            "cpu": "3",
+            "storage": "250GB",
+            "status": "running",
+            "os": "ubuntu:24.04",
+            "created_at": "2026-08-19T06:04:45.142642",
+            "expires": "Never",
+            "ssh_password": "FyzRzM2@ohBMyEBi",
+            "shared_with": [],
+            "node": "localnode"
+        }
+    ],
+    "1487846169366233179": [
+        {
+            "container_name": "vps-1487846169366233179-1",
+            "ram": "8GB",
+            "cpu": "2",
+            "storage": "40GB",
+            "status": "running",
+            "os": "ubuntu:20.04",
+            "created_at": "2026-08-19T06:25:02.331415",
+            "expires": "Never",
+            "ssh_password": "$H2Xca6Vmq81zf8P",
+            "shared_with": [],
+            "node": "localnode"
+        }
+    ],
+    "1510205568231411752": [
+        {
+            "container_name": "vps-1510205568231411752-1",
+            "ram": "16GB",
+            "cpu": "2",
+            "storage": "80GB",
+            "status": "running",
+            "os": "ubuntu:20.04",
+            "created_at": "2026-08-19T09:05:13.195088",
+            "expires": "Never",
+            "ssh_password": "%uj0RCx0bArERnbb",
+            "shared_with": [],
+            "node": "localnode"
+        }
+    ],
+    "1431908574791204898": [
+        {
+            "container_name": "vps-1431908574791204898-1",
+            "ram": "5GB",
+            "cpu": "2",
+            "storage": "5GB",
+            "status": "running",
+            "os": "ubuntu:20.04",
+            "created_at": "2026-08-19T11:39:45.313817",
+            "expires": "Never",
+            "ssh_password": "gaG33L06HOK5O#%d",
+            "shared_with": [],
+            "node": "localnode"
+        }
+    ],
+    "1437787061657538611": [
+        {
+            "container_name": "vps-1437787061657538611-1",
+            "ram": "32GB",
+            "cpu": "2",
+            "storage": "250GB",
+            "status": "running",
+            "os": "ubuntu:24.04",
+            "created_at": "2026-08-19T17:54:06.937862",
+            "expires": "Never",
+            "ssh_password": "RIqrzzE89@@TfcrJ",
+            "shared_with": [],
+            "node": "localnode"
+        }
+    ],
+    "1520903362667876523": [
+        {
+            "container_name": "vps-1520903362667876523-1",
+            "ram": "16GB",
+            "cpu": "2",
+            "storage": "150GB",
+            "status": "running",
+            "os": "ubuntu:24.04",
+            "created_at": "2026-08-19T17:58:57.353492",
+            "expires": "Never",
+            "ssh_password": "NVg$47%q6!bS8th3",
+            "shared_with": [],
+            "node": "localnode"
+        },
+        {
+            "container_name": "vps-1520903362667876523-2",
+            "ram": "64GB",
+            "cpu": "4",
+            "storage": "999GB",
+            "status": "running",
+            "os": "ubuntu:24.04",
+            "created_at": "2026-08-19T18:03:09.680545",
+            "expires": "Never",
+            "ssh_password": "gI3iDxilwX2XNN34",
+            "shared_with": [],
+            "node": "localnode"
+        }
+    ]
+}
